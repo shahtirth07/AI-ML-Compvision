@@ -1,2 +1,2 @@
 # AI-ML-Compvision
-Different projects
+Different projects based on AI/ML/Computer Vision.
